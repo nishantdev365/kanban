@@ -5,6 +5,12 @@ This is a Kanban App project that helps in managing tasks using React. The app u
 
 
 
+## Screenshots / Demo
+
+[![Kanban App Demo](https://drive.google.com/file/d/1M-WryRdaKfmOw0FjCdceGUKS-BGQAid3/view?usp=sharing)](https://youtu.be/s4D9M9CznMU)
+
+
+
 ## Features
 
 - Users can create, edit, and delete tasks
@@ -23,17 +29,33 @@ This is a Kanban App project that helps in managing tasks using React. The app u
 - axios
 - redux
 - react-redux
-## Installation
+## Run Locally
 
-To use this app on your local machine, follow these steps:
+Clone the project
 
 ```bash
-- Clone the repository: git clone https://github.com/your-username/kanban-app.git
-- Navigate to the project directory: cd kanban-app
-- Install the dependencies: npm install
-- Run the app: npm run host
+  git clone https://link-to-project
 ```
-    
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run host
+```
+
+
 ## Usage
 To use the app, follow these steps:
 
@@ -62,3 +84,30 @@ During the development of this project, the following challenges may be encounte
 - **Compatibility issues**: Compatibility issues can arise when working with multiple dependencies. Ensure that you test the application thoroughly and address any compatibility issues that arise.
 
 - **Performance issues**: Performance issues can arise when working with large amounts of data or when using complex animations. Ensure that you optimize the application's performance by using best practices and avoiding unnecessary computations or animations.
+## FAQ
+
+#### Q: What is a Kanban board?
+
+A Kanban board is a tool used for visualizing and managing work in progress. It consists of columns that represent the different stages of a project or process, and cards that represent the individual tasks or items that need to be completed.
+
+#### Q: What is a Kanban app?
+
+A Kanban app is a software application that allows users to create and manage Kanban boards digitally. It typically provides features such as drag-and-drop functionality for moving cards between columns, the ability to assign tasks to team members, and the ability to track progress and deadlines.
+
+#### Q: What technologies were used to develop this Kanban app?
+
+This Kanban app was developed using React, along with several dependencies such as React Beautiful DnD, Framer Motion, Axios, and Redux.
+
+#### Q: What features does this Kanban app offer?
+
+This Kanban app offers several features, including the ability to create, edit, and delete tasks, drag-and-drop functionality for moving tasks between columns, the ability to assign tasks to team members, and the ability to track progress and deadlines.
+
+#### Q: Can I use this Kanban app for personal or commercial projects?
+
+Yes, you are free to use this Kanban app for personal or commercial projects. However, please note that it is provided as-is, without any warranty or guarantee of support.
+
+#### Q: How do I install and run this Kanban app on my local machine?
+
+To install and run this Kanban app on your local machine, you can follow the instructions provided in the README.md file in the project repository. This typically involves cloning the repository, installing dependencies, and running the app using a development server.
+
+
