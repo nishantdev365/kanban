@@ -7,7 +7,7 @@ This is a Kanban App project that helps in managing tasks using React. The app u
 
 ## Screenshots / Demo
 
-[![Kanban App Demo](https://drive.google.com/file/d/1M-WryRdaKfmOw0FjCdceGUKS-BGQAid3/view?usp=sharing)](https://youtu.be/s4D9M9CznMU)
+[![Kanban App Demo](https://drive.google.com/file/d/1M-WryRdaKfmOw0FjCdceGUKS-BGQAid3/view?usp=sharing)](https://youtu.be/pkED8OEyTHk)
 
 
 
